@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "course": [
+      "Tất cả ngoại ngữ",
+      "Tiếng Hàn",
+      "Tiếng Anh",
+      "Tiếng Trung",
+      "Tiếng Nhật"
+    ]
+  },
+  {
+    "id": 2,
+    "course": [
+      "Tất cả Marketing",
+      "Marketing Online",
+      "Google Ads",
+      "Seo",
+      "Branding",
+      "Content Marketing",
+      "Video marketing"
+    ]
+  },
+  {
+    "id": 3,
+    "course": ["Tất cả Tin học văn phòng", "Excel", "Word", "PowerPoint"]
+  },
+  {
+    "id": 4,
+    "course": [
+      "Tất cả Thiết kế",
+      "Thiết kế Quảng Cáo",
+      "Phần mềm thiết kế",
+      "Thiết kế Web",
+      "Photoshop",
+      "AutoCad",
+      "3DSMAX",
+      "After effect",
+      "Kiến trúc nội thất"
+    ]
+  },
+  {
+    "id": 5,
+    "course": [
+      "Tất cả Kinh doanh, khởi nghiệp",
+      "Bất động sản",
+      "Kinh doanh Online",
+      "Startup",
+      "Kiếm tiền Online",
+      "Quản trị doanh nghiệp",
+      "Chứng khoán",
+      "Dropshipping",
+      "Kế toán"
+    ]
+  },
+  {
+    "id": 6,
+    "course": [
+      "Tất cả Kỹ năng mềm",
+      "THương hiệu cá nhân",
+      "Đàm phán",
+      "Kỹ năng lãnh đạo",
+      "Quản trị nhân sự",
+      "MC",
+      "Rèn luyện trí nhớ",
+      "Giao tiếp",
+      "Kỹ năng quản lý",
+      "Thuyết trình",
+      "Luyện giọng"
+    ]
+  },
+  {
+    "id": 7,
+    "course": [
+      "Tất cả Sales bán hàng",
+      "Bán hàng Online",
+      "Telesales",
+      "Bán hàng livestream",
+      "Chăm sóc khách hàng",
+      "Chiến lược bán hàng"
+    ]
+  },
+  {
+    "id": 8,
+    "course": ["Tất cả Công nghệ thông tin", "Lập trình", "Ngôn ngữ Lập trình"]
+  },
+  {
+    "id": 9,
+    "course": [
+      "Tất cả sức khoẻ và giới tính",
+      "Khí công",
+      "Giảm cân",
+      "Thiền",
+      "Giảm stress",
+      "Fitness - Gym",
+      "Tình yêu",
+      "Yoga",
+      "Masage"
+    ]
+  },
+  {
+    "id": 10,
+    "course": [
+      "Tất cả Phong cách sống",
+      "Pha chế",
+      "Làm bánh",
+      "Làm đẹp",
+      "Tử vi",
+      "Ảo thuật",
+      "Âm nhạc",
+      "Nhạc cụ",
+      "Ẩm thực-Nấu ăn",
+      "Nhảy",
+      "Phong thủy"
+    ]
+  },
+  {
+    "id": 11,
+    "course": [
+      "Tất cả Nuôi dạy con",
+      "Mang thai",
+      "Dạy con thông minh",
+      "Chăm sóc bé yêu"
+    ]
+  },
+  {
+    "id": 12,
+    "course": [
+      "Tất cả Hôn nhân gia đình",
+      "Phòng the",
+      "Hạnh phúc gia đình",
+      "Đời sống vợ chồng"
+    ]
+  },
+  {
+    "id": 13,
+    "course": ["Tất cả Nhiếp ảnh, dựng phim", "Dựng phim", "Chụp ảnh", "Kỹ xảo"]
+  }
+]

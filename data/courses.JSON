@@ -1,0 +1,55 @@
+[
+  { "id": 1, "topic": "Ngoại ngữ", "icon": "<i class='bi bi-translate'></i>" },
+  { "id": 2, "topic": "Marketing", "icon": "<i class='bi bi-shop'></i>" },
+  {
+    "id": 3,
+    "topic": "Tin học văn phòng",
+    "icon": "<i class='bi bi-pc-display'></i>"
+  },
+  { "id": 4, "topic": "Thiết kế", "icon": "<i class='bi bi-brush-fill'></i>" },
+  {
+    "id": 5,
+    "topic": "Kinh doanh khởi nghiệp",
+    "icon": "<i class='bi bi-graph-up-arrow'></i>"
+  },
+  {
+    "id": 6,
+    "topic": "Kỹ năng mềm",
+    "icon": "<i class='bi bi-lightbulb'></i>"
+  },
+  {
+    "id": 7,
+    "topic": "Sales bán hàng",
+    "icon": "<i class='bi bi-cart-check-fill'></i>"
+  },
+  {
+    "id": 8,
+    "topic": "Công nghệ thông tin",
+    "icon": "<i class='bi bi-code-slash'></i>"
+  },
+  {
+    "id": 9,
+    "topic": "Sức khỏe và giới tính",
+    "icon": "<i class='bi bi-house-heart-fill'></i>"
+  },
+  {
+    "id": 10,
+    "topic": "Phong cách sống",
+    "icon": "<i class='bi bi-cup-hot-fill'></i>"
+  },
+  {
+    "id": 11,
+    "topic": "Nuôi dạy con",
+    "icon": "<i class='bi bi-person-check-fill'></i>"
+  },
+  {
+    "id": 12,
+    "topic": "Hôn nhân và gia đình",
+    "icon": "<i class='bi bi-people-fill'></i>"
+  },
+  {
+    "id": 13,
+    "topic": "Nhiếp ảnh,dựng phim",
+    "icon": "<i class='bi bi-camera-fill'></i>"
+  }
+]
